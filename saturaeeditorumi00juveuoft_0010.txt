@@ -1,0 +1,48 @@
+vi IVVENALIS
+
+is hardly more than a collation of P. It is valuable, but even as
+a collation it is marred by defects and superfluities. Its defects
+are trifles, and consist in matters orthographical: we learn from
+Mr Buecheler when P has aput for apud and haut for haud, but
+we do not learn when it has set for secl or quod for quot or adque
+for atque. Its superfiuities on the other hand compose the greater
+part of it ; for its greater part is its record of readings imported
+by the corrector or correctors p. p should be cited, as Jahn
+cited it, for one purpose and for one alone. VVhere P is obliter-
+ated, there the reading of p affords a means of judging what the
+reading of P was not: everywhere else it is worse than useless.
+For p is in effect a bad MS of the common class, and it mis-
+represents that class ,- and nothing has more obscured the textual
+criticism of Juvenal than the practice of comparing and contrast-
+ing P, not with a good sample of the inferior family, but with
+one of the worst that can be found.
+
+An apparatus criticus Mr Buecheler’s notes are not. He
+writes on p. xvi
+
+plurimos quenalis codices ipse perlustraui aut ab aliis ita descriptos accepi
+ut potestas fieret iudicandi, sufficiunt exemplo quorum lectiones Car. Hosius
+collegit in apparatu critico (Bonnae 1888) et in museo rhen. XLVI p. 287
+memorauit, cumque quod frater Pithoeani habuit peculium id Pithoeano paene
+totum indidisse correctores uiderem, de P et p diligenter rettuli, ceteros omisi
+nisi ubi horum adiecta memoria declarari posse aut compleri putabam saturarum
+a Nicaeo ad Heiricum historiam. ceterum nisi nouae chartae emerserint, hunc
+dilectum codicum ad Persium et quenalem tantidem esse arbitror quasi omnis
+omnium discrepantia sit adnotata.
+
+To examine ‘plurimos quenalis codices' was not necessary:
+it was enough to cast an understanding eye on the collations of
+Hosius and especially on the excerpts of Jahn. The chief profit
+accruing to Juvenal from my apparatus is not derived from ‘nouae
+chartae’ (except indeed that the Oxoniensis preserves some thirty
+verses nowhere else surviving) but from Jahn's Vrbinas 661 and
+Parisiensis 790012. How much Mr Buecheler is deceived in
+thinking that the truth peculiar to the vulgar MSS has ‘paene
+totum’ been amassed by p, will be clear to any one who com-
+pares my text and notes with his: here I will only remark that
+at ΙΙΙ 109 he adopts from p the barefaced interpolation est nec,
+which not a single decent MS contains, while at Χ 155 he does
+not even mention the evidently genuine acti, which is in almost
+every decent MS excepting P. In one case Mr Buecheler is not
+himself ignorant of the facts but has kept his readers ignorant.
+
